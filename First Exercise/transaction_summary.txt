@@ -1,0 +1,6 @@
+Transaction Summary
+====================
+Total Sales: $9979.999999999874
+Most Popular Fruit: oranges (Total Quantity: 241)
+Average Transaction Value: $15.06
+Biggest Spender: Person59 (Total Spent: $118.24)
